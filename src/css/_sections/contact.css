@@ -1,0 +1,32 @@
+.contact-form-section {
+    padding: 72px 0;
+    background-color: var(--light-text-color);
+}
+
+.contact-form-wrapper {
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.contact-form-wrapper h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.contact-form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.contact-form-grid textarea {
+    grid-column: 1 / -1;
+    min-height: 120px;
+}
+
+.contact-form-wrapper button {
+    width: 100%;
+    margin-top: 10px;
+}

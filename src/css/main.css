@@ -1,0 +1,10 @@
+@import url("_variables/variables.css");
+@import url("_base/base.css");
+@import url("_sections/header.css");
+@import url("_sections/hero.css");
+@import url("_sections/advantages.css");
+@import url("_sections/quality-guarantees.css");
+@import url("_sections/reviews.css");
+@import url("_sections/contact.css");
+@import url("_sections/footer.css");
+@import url("media/responsive.css");

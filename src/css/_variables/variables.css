@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+    --primary-color: #8b5cf6;
+    --primary-color-light: #a78bfa;
+    --dark-text-color: #111827;
+    --light-text-color: #fff;
+    --grey-text-color: #6b7280;
+    --footer-gray-text-color: #f9fafb;
+    --border-color: #111827;
+    --background-grey: #f4f4f7;
+    --background-dark: #111827;
+    --font-family: "Inter", sans-serif;
+}

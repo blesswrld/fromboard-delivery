@@ -1,0 +1,49 @@
+.guarantees-section {
+    padding: 50px 0;
+    background-color: var(--background-grey);
+}
+
+.guarantees-section h2 {
+    margin-bottom: 12px;
+}
+
+.guarantees-section .section-intro {
+    text-align: center;
+    margin-bottom: 24px;
+}
+.guarantees-section .section-intro p {
+    max-width: 700px;
+    margin: 0 auto;
+    color: var(--grey-text-color);
+}
+
+.certificates-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 24px;
+    margin-bottom: 36px;
+}
+
+.certificate-item {
+    overflow: hidden;
+    text-align: center;
+    padding: 10px;
+}
+
+.certificate-item img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    margin-bottom: 4px;
+}
+
+.certificate-item p {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--dark-text-color);
+}
+
+.guarantees-section .text-center {
+    text-align: center;
+}
