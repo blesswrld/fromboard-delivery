@@ -60,10 +60,6 @@
     font-weight: 700;
 }
 
-.footer-nav ul li a:hover {
-    color: var(--primary-color-light);
-}
-
 .footer-contact-details {
     text-align: right;
 }
@@ -110,8 +106,4 @@
 
 .footer-developer-info a {
     text-decoration: underline;
-}
-
-.footer-developer-info a:hover {
-    color: var(--primary-color-light);
 }
